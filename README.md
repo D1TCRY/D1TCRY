@@ -1,3 +1,3 @@
 - 👋 @D1TCRY
-- 🌱 Python, HTML, CSS, JavaScript
+- 🌱 Python, HTML, CSS, JavaScript, Java
 - 📫 diego.cecchelani@outlook.it
